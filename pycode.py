@@ -1,1 +1,3 @@
 #shungite
+
+print("optimize")
